@@ -99,9 +99,9 @@ Add a submit button and Link Bootstrap JavaScript.
 </html>
 ``````
 
-
 ## OUTPUT 10(1):
-![Alt text](web1.png)
+![web1](https://github.com/GAYATHRI-K06/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742742/9c394791-987a-4cdb-bc0a-70e5362e4e14)
+
 
 ## RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
@@ -210,15 +210,8 @@ Link the Bootstrap JavaScript file at the end of the body.
 </body>
 </html>
 ``````
-
-
-
-
-
-
-
 ## OUTPUT 10(2):
-![Alt text](web2.png)
+![web2](https://github.com/GAYATHRI-K06/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742742/4a4ce54e-0822-45da-bc0b-9ff7a798f23d)
 
 ## RESULT:
 This code creates a Responsive student registration form for ABCEngineering College built with Bootstrap.
@@ -303,8 +296,7 @@ Add a script to handle the form validation on submit.
     <button type="button" class="btn btn-success"> Submit </button>
 ``````
 ## OUTPUT(3)
-![Alt text](web3.png)
-
+![web3](https://github.com/GAYATHRI-K06/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742742/5a7a907b-2a1a-4adc-9fc9-de991a4d8d30)
 
 ## RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
@@ -404,7 +396,6 @@ Add a script to handle the form validation on submit.
 ``````
 
 ## OUTPUT:10(4)
-![Alt text](web4.png)
-
+![web4](https://github.com/GAYATHRI-K06/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145742742/496f00f1-3bc1-49ed-b8e7-d8a64f7cc14b)
 ## RESULT:
 This code creates a basic email login form in Bootstrap with validation function
